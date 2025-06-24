@@ -124,6 +124,6 @@ nav ul li a{
 section{
     background: url(../image/image.jpg) no-repeat;
     background-size: cover;
-    height: calc(100vh - 50px);
+    height: 100vh;
     width:  100%;
 }
